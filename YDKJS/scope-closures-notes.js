@@ -1,0 +1,1 @@
+//scopes and closures notes and exercises
